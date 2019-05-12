@@ -6,7 +6,7 @@ import Header from './src/components/header';
 //  Create a component 
 
 const App = () => (
-        <Text>Some Text</Text>
+        <Header />
     );
 // Render it to a device
 AppRegistry.registerComponent('albums', ()=> App);
