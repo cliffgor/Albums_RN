@@ -4,11 +4,8 @@ import { Text, AppRegistry } from 'react-native'
 
 //  Create a component 
 
-const App = () => {
-    return (
+const App = () => (
         <Text>Some Text</Text>
     );
-}
-
 // Render it to a device
 AppRegistry.registerComponent('albums', ()=> App);
