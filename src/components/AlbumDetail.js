@@ -5,6 +5,7 @@ import CardSection from './CardSection';
 import Button from './Button'
 
 
+
 const AlbumDetail = ({ album }) => {
     const {title, artist, thumbnail_image, image } = album;
     const { thumbnailStyle, 
@@ -34,10 +35,10 @@ const AlbumDetail = ({ album }) => {
 
 
          <CardSection>
-             <Button />
+             <Button onPress={() => console.log(title)} />
          </CardSection>
 
-         
+
      </Card>
  )
 };
