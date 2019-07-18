@@ -12,7 +12,8 @@
 
 - Clone/fork the app [Albums_RN Github](https://github.com/cliffgor/Albums_RN.git)
 
-- To Install dependencies `npm install`
+- To Install dependencies type `npm install` on your terminal
+- After installation run the app by typing  `react-native run-android` on your terminal
 
 # Author 
 
