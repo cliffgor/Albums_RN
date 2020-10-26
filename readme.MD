@@ -1,32 +1,73 @@
 ## Albums
+
 - This is an app that displays albums from the web and directs users to an online shop(AMAZON) where they can purchase albums of their choice from the ones added to the application
 
-## Introduction 
+  
+
+## Introduction
+
 - Hello and welcome to this tutorial where we will be building this application from start to finish.
 
-	![Albums_rn](/src/screenshot/Albums_RN.png)
+- Before anything please go a head to the [React Native Website](https://reactnative.dev/) and click on the get started button to install react native into your computer
+
+  
+  
+
+## Installation
+First we need to create our application using ``npx``by doing ``npx react-native init AlbumsRN`` in our terminal
+
+![Albums_rn](/src/screenshot/terminal2.png)
+
+
+
+  
+
+![Albums_rn](/src/screenshot/Albums_RN.png)
+
+  
 
 # Technologies
 
-- React Native
-- android 
+  
 
-- If you'd wish to install this application you can do so by 
+- React Native
+
+- android
+
+  
+
+- If you'd wish to install this application you can do so by
+
+  
 
 # Installation
 
+  
+  
 
 - Clone/fork the app [Albums_RN Github](https://github.com/cliffgor/Albums_RN.git)
 
+  
+
 - To Install dependencies type `yarn install` on your terminal
-- After installation run the app by typing  `npx react-native run-android` on your terminal
 
-# Summary 
-You can watch a summary of what we will be building in on youtube 
+- After installation run the app by typing `npx react-native run-android` on your terminal
 
-[![Albums RN](http://img.youtube.com/vi/gaXSWow05IQ/0.jpg)](http://www.youtube.com/watch?v=gaXSWow05IQ "Albums RN")
+  
 
+# Summary
 
-# Author 
+You can watch a summary of what we will be building in on youtube
 
-- **Cliff Gor**
+  
+
+[![Albums RN](http://img.youtube.com/vi/gaXSWow05IQ/0.jpg)](http://www.youtube.com/watch?v=gaXSWow05IQ  "Albums RN")
+
+  
+  
+
+# Author
+
+  
+
+-  **Cliff Gor**
